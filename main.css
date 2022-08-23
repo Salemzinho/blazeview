@@ -7444,6 +7444,21 @@ fieldset:disabled .btn {
 .p-5 {
     padding: 3rem !important;
 }
+.p-6 {/*Blaze*/
+    padding: 3.25rem !important;
+}
+.p-7 {/*Blaze*/
+    padding: 3.5rem !important;
+}
+.p-8 {/*Blaze*/
+    padding: 4rem !important;
+}
+.p-9 {/*Blaze*/
+    padding: 4.5rem !important;
+}
+.p-10 {/*Blaze*/
+    padding: 5rem !important;
+}
 .px-0 {
     padding-right: 0 !important;
     padding-left: 0 !important;
@@ -7583,6 +7598,21 @@ fieldset:disabled .btn {
 .pe-5 {
     padding-right: 3rem !important;
 }
+.pe-6 { /*Blaze*/
+    padding-right: 3.25rem !important;
+}
+.pe-7 { /*Blaze*/
+    padding-right: 3.5rem !important;
+}
+.pe-8 { /*Blaze*/
+    padding-right: 4rem !important;
+}
+.pe-9 { /*Blaze*/
+    padding-right: 4.5rem !important;
+}
+.pe-10 { /*Blaze*/
+    padding-right: 5rem !important;
+}
 .pb-0 {
     padding-bottom: 0 !important;
 }
@@ -7601,6 +7631,21 @@ fieldset:disabled .btn {
 .pb-5 {
     padding-bottom: 3rem !important;
 }
+.pb-6 { /*Blaze*/
+    padding-bottom: 3.25rem !important;
+}
+.pb-7 { /*Blaze*/
+    padding-bottom: 3.5rem !important;
+}
+.pb-8 { /*Blaze*/
+    padding-bottom: 4rem !important;
+}
+.pb-9 { /*Blaze*/
+    padding-bottom: 4.5rem !important;
+}
+.pb-10 { /*Blaze*/
+    padding-bottom: 5rem !important;
+}
 .ps-0 {
     padding-left: 0 !important;
 }
@@ -7618,6 +7663,21 @@ fieldset:disabled .btn {
 }
 .ps-5 {
     padding-left: 3rem !important;
+}
+.ps-6 { /*Blaze*/
+    padding-left: 3.25rem !important;
+}
+.ps-7 { /*Blaze*/
+    padding-left: 3.5rem !important;
+}
+.ps-8 { /*Blaze*/
+    padding-left: 4rem !important;
+}
+.ps-9 { /*Blaze*/
+    padding-left: 4.5rem !important;
+}
+.ps-10 { /*Blaze*/
+    padding-left: 5rem !important;
 }
 .gap-0 {
     gap: 0 !important;
